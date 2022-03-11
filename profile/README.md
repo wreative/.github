@@ -1,8 +1,7 @@
 
 <center>
-<img src="../logo.svg" width="250" height="250">
+<img src="https://raw.githubusercontent.com/wreative/.github/main/logo.svg" width="250" height="250">
 </center>
-
 
 # Hi, we Wreative! 👋
 Digital Marketing Agency in Surabaya that can help you in marketing products and services on the internet, with website creation techniques, SEO optimization, social management, Google Ads advertising, application development and others.
