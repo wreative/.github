@@ -1,8 +1,11 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<center>
+<img src="../logo.svg" width="250" height="250">
+</center>
 
 
 # Hi, we Wreative! 👋
+Digital Marketing Agency in Surabaya that can help you in marketing products and services on the internet, with website creation techniques, SEO optimization, social management, Google Ads advertising, application development and others.
 
 👩‍💻 I'm currently working on...
 
@@ -12,11 +15,7 @@
 
 🤔 I'm looking for help with...
 
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
+💬 Ask we about...
 
 ⚡️ Fun fact...
 
@@ -27,7 +26,6 @@ If you have any feedback, please reach out to us at contact@wreative.com
 
 
 ## 🔗 Links
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wreative.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/wreative)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/wreative)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wreative)
